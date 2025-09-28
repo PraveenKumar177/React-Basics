@@ -61,12 +61,14 @@ app.post("/login",(req,res)=>{
 
 
 app.get("/profile",verifyToken,(req,res)=>{
-    res.send(`Welcome ${req.user.username}`)
+    res.send(`${req.user.username}`)
 })
 
 
 app.get("/",(req,res)=>{
     res.send("Hello World")
 })
+
+
 
 app.listen(3001,()=>console.log("Backend Running in the PORT 3001"))

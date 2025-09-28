@@ -1,0 +1,182 @@
+[
+  {
+    "id": 89,
+    "name": "Farmers Pick",
+    "amt": "299",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 124,
+    "name": "Paper Roast Dosa",
+    "amt": "65",
+    "shop": "Sri Saivihar",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/124.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 126,
+    "name": "Alfredo Pasta",
+    "amt": "159",
+    "shop": "LAKSHMI FOOD",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/126.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 79,
+    "name": "Chicken 65 Briyani",
+    "amt": "220",
+    "shop": "Salem RR Briyani",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/79.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 80,
+    "name": "Mio Mia Meal",
+    "amt": "299",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/img/food/80.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 28,
+    "name": "Orange Juice",
+    "amt": "99",
+    "shop": "JUICE MALL",
+    "ftype": "Juice",
+    "pic": "https://www.app.tutorjoes.in/img/food/28.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 47,
+    "name": "Milk Halwa",
+    "amt": "250",
+    "shop": "Shri Gupta Sweets",
+    "ftype": "Sweet",
+    "pic": "https://www.app.tutorjoes.in/img/food/47.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 100,
+    "name": "Vegetable Soup",
+    "amt": "90",
+    "shop": "Sri Saivihar",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/100.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 120,
+    "name": "Hyderabadi Chicken Dry",
+    "amt": "235",
+    "shop": "LAKSHMI FOOD",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/120.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 133,
+    "name": "Mutton Seekh Kebab",
+    "amt": "350",
+    "shop": "Tandoori Wala",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/133.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 130,
+    "name": "Paneer Tikka",
+    "amt": "230",
+    "shop": "Tandoori Wala",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/130.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 59,
+    "name": "Malai Doda",
+    "amt": "35",
+    "shop": "Shri Gupta Sweets",
+    "ftype": "Sweet",
+    "pic": "https://www.app.tutorjoes.in/img/food/59.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 118,
+    "name": "Plum Loaf Cake",
+    "amt": "101",
+    "shop": "Henry & Wolsey",
+    "ftype": "Cake",
+    "pic": "https://www.app.tutorjoes.in/img/food/118.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 51,
+    "name": "Curd Vadai",
+    "amt": "65",
+    "shop": "Sri Saivihar",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/51.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 81,
+    "name": "Mio Mia Choco Sundae Meal",
+    "amt": "319",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/img/food/81.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 78,
+    "name": "Classic Walnut Brownie",
+    "amt": "157",
+    "shop": "Shri Cakes Zone",
+    "ftype": "Cake",
+    "pic": "https://www.app.tutorjoes.in/img/food/78.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 138,
+    "name": "Choco Fudge",
+    "amt": "129",
+    "shop": "Crena 5 Fudge",
+    "ftype": "IceCream",
+    "pic": "https://www.app.tutorjoes.in/img/food/138.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 129,
+    "name": "Veg Extravaganza Pizza",
+    "amt": "219",
+    "shop": "LAKSHMI FOOD",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/img/food/129.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 137,
+    "name": "Cream of Chicken Soup",
+    "amt": "150",
+    "shop": "Tandoori Wala",
+    "ftype": "Soup",
+    "pic": "https://www.app.tutorjoes.in/img/food/137.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 105,
+    "name": "Paratha",
+    "amt": "65",
+    "shop": "Pugal Ragu Bawa Tiffen Center",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/105.jpg",
+    "latest": "No"
+  }
+]
